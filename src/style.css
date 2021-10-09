@@ -1,0 +1,12 @@
+html, body, #root, .App {
+    height: 100%;
+  }
+html{
+    background-color: #C2C2D6;     
+}
+#root{
+    
+    display: flex;        
+    justify-content: center;
+    align-items: center;  
+}
