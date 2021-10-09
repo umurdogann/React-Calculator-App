@@ -3,6 +3,7 @@
 ## Simple calculator built with React
 
 Purpose of this project is pratice React
+
 You can access: [LIVE DEMO](https://react-calculator-cud.netlify.app/)
 
 ## How to run?
