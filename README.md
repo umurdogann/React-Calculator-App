@@ -18,6 +18,6 @@ You can access: [LIVE DEMO](https://react-calculator-cud.netlify.app/)
 
 ## Todo
 
-- Desktop version via manifest (Add to homescreen)
-- Key listener
-- More tests
+- [] Desktop version via manifest (Add to homescreen)
+- [] Key listener
+- [] More tests
